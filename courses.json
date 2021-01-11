@@ -1,0 +1,56 @@
+{
+    "from_timezone": "America/Toronto",
+    "to_timezone": "Asia/Shanghai",
+    "timetable": [
+        {
+            "name": "MATH 1090",
+            "sessions": [
+                {
+                    "weekday": "TR",
+                    "begin": "11:30",
+                    "end": "13:00"
+                }
+            ]
+        },
+        {
+            "name": "EECS 3221",
+            "sessions": [
+                {
+                    "weekday": "MW",
+                    "begin": "19:00",
+                    "end": "20:30"
+                }
+            ]
+        },
+        {
+            "name": "EECS 3421",
+            "sessions": [
+                {
+                    "weekday": "TF",
+                    "begin": "10:00",
+                    "end": "11:30"
+                }
+            ]
+        },
+        {
+            "name": "EECS 3000",
+            "sessions": [
+                {
+                    "weekday": "TR",
+                    "begin": "17:30",
+                    "end": "19:00"
+                }
+            ]
+        },
+        {
+            "name": "MODR 1770",
+            "sessions": [
+                {
+                    "weekday": "W",
+                    "begin": "11:30",
+                    "end": "14:30"
+                }
+            ]
+        }
+    ]
+}
